@@ -1,6 +1,7 @@
 h1 align="center">Hi 👋, I'm Shweta ruwali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/S4-shweta/S4-shweta/assets/132455745/1f1817fe-29a8-49ee-a54d-c63856aacad6)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s4-shweta&label=Profile%20views&color=0e75b6&style=flat" alt="s4-shweta" /> </p>
 
