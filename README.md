@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**S4-shweta/S4-shweta** is a ✨ _special_ ✨ repository because its  (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its  (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
